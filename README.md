@@ -1,0 +1,3 @@
+# Twig phpinfo() Bolt Extension
+
+If you need to display PHP Environment information on your website this Extension will add a Twig function, which will render the `<body>` tag content of the phpinfo() HTML result. Style-able on your needs...
