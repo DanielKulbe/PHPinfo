@@ -3,7 +3,7 @@
     "description": "phpinfo() Twig function for bolt",
     "type": "bolt-extension",
     "keywords": [
-        "php", "info"
+        "php", "info", "twig"
     ],
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "bolt/bolt": ">=2.0.0,<3.0.0"
+        "bolt/bolt": ">=2.2.0,<3.0.0"
     },
     "autoload": {
         "files": [
