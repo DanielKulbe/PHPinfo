@@ -30,7 +30,7 @@
         }
     },
     "extra": {
-        "bolt-icon": "assets/php-logo.svg",
+        "bolt-icon": "php-logo.svg",
         "branch-alias" : {
             "dev-master" : "1.0.x-dev"
         }
