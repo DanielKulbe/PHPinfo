@@ -12,6 +12,12 @@
             "email": "info@daniel-kulbe.de"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://gitlab.daniel-kulbe.de/root/bolt-phpinfo.git"
+        }
+    ],
     "require": {
         "bolt/bolt": ">=2.2.0,<3.0.0"
     },
@@ -21,6 +27,12 @@
         ],
         "psr-4": {
             "Bolt\\Extension\\DanielKulbe\\PHPinfo\\": ""
+        }
+    }
+    "extra": {
+        "bolt-icon": "assets/php.svg",
+        "branch-alias" : {
+            "dev-master" : "1.0.x-dev"
         }
     }
 }
