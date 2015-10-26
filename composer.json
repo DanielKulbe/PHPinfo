@@ -28,7 +28,7 @@
         "psr-4": {
             "Bolt\\Extension\\DanielKulbe\\PHPinfo\\": ""
         }
-    }
+    },
     "extra": {
         "bolt-icon": "assets/php.svg",
         "branch-alias" : {
