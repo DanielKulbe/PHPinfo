@@ -15,7 +15,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "http://gitlab.daniel-kulbe.de/root/bolt-phpinfo.git"
+            "url": "git@bitbucket.org:danielkulbe/bolt-phpinfo.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:DanielKulbe/PHPinfo.git"
         }
     ],
     "require": {
